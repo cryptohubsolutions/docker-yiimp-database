@@ -1,4 +1,4 @@
-FROM mysql:5.7.21
+FROM mariadb:5.5.59
 MAINTAINER JS Minet
 ARG REPOSITORY=https://github.com/tpruvot/yiimp.git
 
